@@ -1,0 +1,25 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "A barebones repo of a Hugo site and a Sanity studio. For following along with a tutorial on [Sanity.io](https://sanity.io).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slsnider727/HugoSanityIntegrationTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slsnider727/HugoSanityIntegrationTutorial/issues"
+  },
+  "homepage": "https://github.com/slsnider727/HugoSanityIntegrationTutorial#readme",
+  "dependencies": {
+    "@sanity/block-content-to-markdown": "0.0.5",
+    "@sanity/client": "^2.13.0",
+    "fs-extra": "^10.0.0"
+  }
+}
